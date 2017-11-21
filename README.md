@@ -3,9 +3,7 @@
 *Repository for talk material from the 4IR workshop*
 
 **What:** 4IR Workshop on Class Imbalance in Machine Learning Classification
-
 **When:** Wednesday Nov 22nd 2017, 13:00 - 17:00 
-
 **Where:** Schuster Building, School of Physics & Astronomy, University of Manchester
 
 13.00 Arrival & Welcome
