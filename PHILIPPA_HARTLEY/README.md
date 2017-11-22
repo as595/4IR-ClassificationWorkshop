@@ -4,5 +4,5 @@
 
 ---
 
-- Talk slides: 
-- Notes on ML best practice: 
+- Talk slides: class_imbalancefinal.pdf
+- Notes on ML best practice: ML_best_practice.pdf
