@@ -12,10 +12,10 @@
 - 13.00 Arrival & Welcome 
 - 13:10 [Rob Lyon - Classification in Time Domain Astrophysics](https://github.com/as595/4IR-ClassificationWorkshop/tree/master/ROB_LYON)
 - 13:40 [Philippa Hartley - Finding Rare Objects in Space: a Class Imbalance Problem](https://github.com/as595/4IR-ClassificationWorkshop/tree/master/PHILIPPA_HARTLEY)
-- 14:10 Hayden Rampadarath - Image-based Galaxy Classification in Radio Astronomy
+- 14:10 [Hayden Rampadarath - Image-based Galaxy Classification in Radio Astronomy](https://github.com/as595/4IR-ClassificationWorkshop/tree/master/HAYDEN_RAMPADARATH)
 - 14:40 Discussion
 - 15:00 Coffee & Biscuits
-- 15:30 Caitriona Jackman - Classification & Feature Extraction in Space Science
-- 16:00 Alex Clarke - Classification in Music Segregation
-- 16:30 Nikos Nikolaou - Learning from Imbalanced Classes: Problem Statement & Methods
+- 15:30 [Caitriona Jackman - Classification & Feature Extraction in Space Science](https://github.com/as595/4IR-ClassificationWorkshop/tree/master/CAITRIONA_JACKMAN)
+- 16:00 [Alex Clarke - Classification in Music Segregation](https://github.com/as595/4IR-ClassificationWorkshop/tree/master/ALEX_CLARKE)
+- 16:30 [Nikos Nikolaou - Learning from Imbalanced Classes: Problem Statement & Methods](https://github.com/as595/4IR-ClassificationWorkshop/tree/master/NIKOS_NIKOLAOU)
 - 17:00 Drinks Reception
