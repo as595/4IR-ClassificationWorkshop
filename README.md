@@ -10,8 +10,8 @@
 # Program
 
 - 13.00 Arrival & Welcome 
-- 13:10 Rob Lyon - Classification in Time Domain Astrophysics
-- 13:40 Philippa Hartley - Finding Rare Objects in Space: a Class Imbalance Problem
+- 13:10 [Rob Lyon - Classification in Time Domain Astrophysics](https://github.com/as595/4IR-ClassificationWorkshop/tree/master/ROB_LYON)
+- 13:40 [Philippa Hartley - Finding Rare Objects in Space: a Class Imbalance Problem](https://github.com/as595/4IR-ClassificationWorkshop/tree/master/PHILIPPA_HARTLEY)
 - 14:10 Hayden Rampadarath - Image-based Galaxy Classification in Radio Astronomy
 - 14:40 Discussion
 - 15:00 Coffee & Biscuits
